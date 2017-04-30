@@ -1,0 +1,70 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       background-color: BBD9FF;
+       height: 100%;
+       background-image: url("http://www.bookmyreunion.com/wp-content/uploads/2014/12/Seattle-5.jpg");
+    }
+
+    header {
+        background-color: #140CE8;
+        font-family: 'Changa', sans-serif;
+        padding: 5px;
+        font-size:30px;
+        text-align: center;
+        display: block;
+        border:  10px solid #00FF01;
+        margin: 30px;
+    }
+    nav {
+      text-align: center;
+      background-color: #00FF01;
+      border:  5px solid #140CE8;
+      font-size: 30px;
+}
+    }
+    ul {
+      padding: 30px;
+    }
+    li {
+      display: inline;
+      text-decoration: none;
+    }
+    a {
+      padding: 20px;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+        font-family: 'Sanchez', serif;
+        text-align: center;
+    }
+
+    p{
+      font-size: 35px;
+      font-family: sans-serif;
+      text-align: center;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
